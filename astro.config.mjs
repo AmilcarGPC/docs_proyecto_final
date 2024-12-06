@@ -12,7 +12,7 @@ export default defineConfig({
 					label: 'Estándares',
 					items: [
 					  { label: 'Estándar de Codificación', autogenerate: { directory: 'standards/coding/' } },
-					  { label: 'Estándar de Conteo', slug: 'standards/counting/counting_standard' },
+					  { label: 'Estándar de Conteo', slug: 'standards/counting/estandar_conteo' },
 					]
 				}
 			],
